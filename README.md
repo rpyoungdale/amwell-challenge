@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 A live version of the project can be found here!
 https://amwell-code-challenge-2020.web.app/
 
+The main logic is contained in LowestThree.js.
+
 ## Available Scripts
 
 In the project directory, you can run:
