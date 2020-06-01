@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 A live version of the project can be found here!
-https://amwell-challenge.web.app
+https://amwell-code-challenge-2020.web.app/
 
 ## Available Scripts
 
