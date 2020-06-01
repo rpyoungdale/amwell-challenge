@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import amwellLogo from './amwell-logo.png';
 import './App.css';
 import LowestThree from './LowestThree';
@@ -11,6 +11,7 @@ function App() {
       </div>
       <div className="App-body">
         <LowestThree />
+        <p>Created by Ryan Youngdale</p>
       </div>
     </div>
   );

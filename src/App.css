@@ -27,3 +27,23 @@
   /* align-items: center; */
   /* flex-direction: row; */
 }
+
+.reset {
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+.num-result {
+  border-style: groove;
+  margin: 20px;
+  padding: 10px;
+}
+
+.error-message {
+  color: red;
+}
+
+.result-container {
+  display: flex;
+  justify-content: center;
+}
